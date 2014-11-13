@@ -1,3 +1,11 @@
+/*
+ *  This is sample about how to use inline extended inline asm
+ *  And the function below is simple. 
+ *  It change the value of variable v from 0 to 1;
+ */
+
+
+
 #include<stdio.h>
 using namespace std;
 
