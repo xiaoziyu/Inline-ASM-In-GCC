@@ -1,5 +1,5 @@
 /*
- *  This is sample about how to use inline extended inline asm
+ *  This is sample about how to use extended inline asm by using AT&T grammar.
  *  And the function below is simple. 
  *  It change the value of variable v from 0 to 1;
  */
